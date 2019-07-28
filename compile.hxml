@@ -1,0 +1,4 @@
+-lib heaps
+-js dist/hello.js
+-main Main
+-debug
